@@ -1,4 +1,10 @@
-<br>#A20525722</br>
-<br>MANIKANTAN GANESAN</br>
-<link>mganesan2@hawk.iit.edu</link>
+<br>
+<b>#A20525722</b>
+</br>
+<br>
+MANIKANTAN GANESAN
+</br>
+<br>
+<a href="mailto:mganesan2@hawk.iit.edu">Send email</a>
+</br>
 <i>+1 7737891086</i>
