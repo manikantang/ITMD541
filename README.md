@@ -1,4 +1,4 @@
---A20525722
---MANIKANTAN GANESAN
---mganesan2@hawk.iit.edu
+A20525722
+MANIKANTAN GANESAN
+mganesan2@hawk.iit.edu
 +1 7737891086
